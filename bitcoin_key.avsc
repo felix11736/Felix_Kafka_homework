@@ -1,0 +1,11 @@
+{
+  "namespace": "com.felix.taxi",
+  "type": "record",
+  "name": "BitcoinKey",
+  "fields": [
+    {
+      "name": "date",
+      "type": "string"
+    }
+  ]
+}
